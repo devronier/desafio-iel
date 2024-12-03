@@ -100,3 +100,54 @@ organizarRecados(recados);
 // "Boletim disponível (Regular, 02/12)"
 
 ```
+
+---
+
+## Fase 3: Individual - Aprimoramento da Solução de Comunicação 
+**Tempo:** 3 horas
+
+### Objetivo:  
+Expandir e aprimorar o sistema de comunicação criado no **Desafio 1**, com foco na implementação de funcionalidades adicionais para **educação** e **gestão de informações acadêmicas**.
+
+### Descrição:  
+Os participantes devem expandir a solução do **Desafio 1** (agora de forma individual) implementando as seguintes funcionalidades, com ênfase no **módulo de comunicação**.
+
+1. **Aprimoramento do Sistema de Comunicação**  
+   - Melhorar a interface de mensagens criada no **Desafio 1**, agora adicionando **filtros de categorias** como:
+     - **Mensagens não lidas**
+     - **Mensagens prioritárias**
+     - **Mensagens enviadas/recebidas**
+   - Simulação de envio de mensagens entre os três tipos de usuários: **Aluno**, **Pai** e **Professor**.
+
+2. **Autenticação de Usuários**  
+   - Adicionar uma tela de **login básico** com autenticação para três tipos de usuários: **Aluno**, **Pai** e **Professor**.
+   - Dependendo do tipo de usuário, a interface da página inicial será adaptada, oferecendo funcionalidades específicas de **mensagens** ou **acompanhamento acadêmico**.
+
+3. **Área de Acompanhamento Acadêmico**  
+   - Para **Alunos**: Criar uma área de **acompanhamento de notas** com uma tabela ou gráfico, mostrando suas médias e status de aprovação.
+   - Para **Pais**: Exibir o desempenho acadêmico de seus filhos, com uma visão geral das notas e eventuais comentários dos professores.
+   - Para **Professores**: Exibir uma lista de alunos com suas notas, permitindo a visualização de desempenho geral da turma.
+
+### Critérios de Avaliação:
+
+1. **Integração e Expansão da Comunicação:**  
+   - A funcionalidade de **comunicação** deve ser aprimorada com filtros e uma navegação eficiente. O sistema de mensagens deve ser o principal módulo da solução.
+
+2. **Qualidade Técnica:**  
+   - Organização do código, uso de boas práticas de desenvolvimento, como modularização e legibilidade.
+
+3. **Usabilidade:**  
+   - A interface deve ser intuitiva e fácil de usar.
+
+4. **Alinhamento com a Proposta de Educação e Comunicação:**  
+   - A solução deve atender a proposta de **educação** e **comunicação** de forma eficaz, com uma interface funcional e relevante.
+
+5. **Acessibilidade (Critério de Avaliação):**  
+   - Embora não seja um requisito obrigatório, será considerado como critério de avaliação a implementação de boas práticas de **acessibilidade**, como contraste ajustável, navegação por teclado, e texto alternativo para imagens, para tornar a interface mais inclusiva.
+
+---
+
+### Resultado Final:  
+Os 5 participantes com as soluções mais completas, inovadoras e bem executadas serão selecionados para a próxima fase.
+
+ 
