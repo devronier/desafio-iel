@@ -75,9 +75,6 @@ verificarHorarioDisponivel("8h às 12h", "13h"); // Saída: "Horário não dispo
 **Descrição:**  
 Você tem uma lista de recados enviados entre pais e professores. Cada recado tem uma data e uma prioridade (importante ou regular). O sistema deve organizar os recados em ordem de data, com os recados importantes aparecendo primeiro.
 
-**Tarefa:**  
-Crie uma função `organizarRecados` que organiza os recados por data e prioridade (importante vem antes de regular).
-
 **Tarefa**:
 
 Crie uma função `organizarRecados` que organiza os recados por data e prioridade (importante vem antes de regular).
